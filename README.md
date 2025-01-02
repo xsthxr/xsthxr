@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">I'm a Security Enthusiast</h3>
-I enjoy honing my skills in my free time by using my personal homelab for testing and learning. I also expand my knowledge through various security-related websites, and participating in Capture-the-flags(CTFs). </br></br>
+I enjoy honing my skills in my free time, using my personal homelab for testing and learning. I also expand my knowledge through various security-related websites, and participating in Capture-the-flags(CTFs). </br></br>
 🌱 I currently have 4 years of experience covering roles which includes Helpdesk Technician, System Administrator, and System Engineer.
 
 <h2 align="left">Languages and Tools:</h2>
